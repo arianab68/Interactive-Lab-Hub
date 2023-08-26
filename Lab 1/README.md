@@ -69,6 +69,7 @@ You will be using your smartphone as a stand-in for the device you are prototypi
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **First Attempts:**
+
 ![screenshot_2023-08-25_at_6 40 11_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9175cebd-09e3-457b-9c2c-87301f24a95a)
 ![screenshot_2023-08-25_at_6 40 00_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/e2a43cf9-1d60-4fa8-be27-07477127e575)
 
@@ -89,6 +90,7 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 **Device Sketches**
+
 ![img_1238_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/063f71c5-f714-4ff4-a09c-bba595721b65)
 ![img_1240_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/22125b6f-4ddb-4daa-8c1e-6f0d857c0e11)
 ![img_1239_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9bbb3b13-9d70-4e3a-ad96-9fc6dd134761)
