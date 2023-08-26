@@ -10,36 +10,6 @@ There is no actor that plays Tinkerbell--her existence in the play comes from th
 
 For lab this week, we draw on this and other inspirations from theatre to stage interactions with a device where the main mode of display/output for the interactive device you are designing is lighting. You will plot the interaction with a storyboard, and use your computer and a smartphone to experiment with what the interactions will look and feel like. 
 
-_Make sure you read all the instructions and understand the whole of the laboratory activity before starting!_
-
-
-
-## Prep
-
-### To start the semester, you will need:
-1. Read about Git [here](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
-2. Set up your own Github "Lab Hub" repository to keep all you work in record by [following these instructions](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
-3. Set up the README.md for your Hub repository (for instance, so that it has your name and points to your own Lab 1) and [learn how to](https://guides.github.com/features/mastering-markdown/) organize and post links to your submissions on your README.md so we can find them easily.
-
-
-### For this lab, you will need:
-1. Paper
-2. Markers/ Pens
-3. Scissors
-4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. Computer -- We will use your computer to host a webpage which also features controls.
-6. Found objects and materials -- You will have to costume your phone so that it looks like some other devices. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative!
-
-### Deliverables for this lab are: 
-1. 7 Storyboards
-1. 3 Sketches/photos of costumed devices
-1. Any reflections you have on the process
-1. Video sketch of 3 prototyped interactions
-1. Submit the items above in the lab1 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
-
-### The Report
-This README.md page in your own repository should be edited to include the work you have done (the deliverables mentioned above). Following the format below, you can delete everything but the headers and the sections between the **stars**. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in your README.md for the lab.
-
 ## Lab Overview
 For this assignment, you are going to:
 
@@ -55,11 +25,7 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
-
 ## Part A. Plan 
-
-\*\***Describe your setting, players, activity and goals here.**\*\*
 
 Setting: The kitchen and bedroom. This device is used when things are cooking or baking in a oven.
 
@@ -69,19 +35,14 @@ Activity: Rachel puts her cake in the oven, she starts a timer for 30 minutes an
 
 Goals: The goal of the mini oven is to know when food is finished cooking/baking in the oven without having to physically move their ass to the oven
 
-\*\***Include pictures of your storyboards here**\*\*
+**Storyboard**
 
 ![image](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/12e5455a-239b-451b-b5ae-965e0775fea7)
 
-
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
-
-\*\***Summarize feedback you got here.**\*\*
+**Feedback**
 
 
 ## Part B. Act out the Interaction
-
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
@@ -99,29 +60,22 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
 
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
+**Feedback on Tinkerbelle**
 
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
-\*\***Give us feedback on Tinkerbelle.**\*\*
-
-- Overall using Tinkerbelle was pretty smooth. When setting up on the Mac device, some of us needed to include --user in order for the requirements.txt to properly install with Python3. Also, we opted to use local machines rather than virtual ones.
+- Overall, using Tinkerbelle was pretty smooth. When setting up on the Mac device, some of us needed to include --user in order for the requirements.txt to properly install with Python3. Also, we opted to use local machines rather than virtual ones.
 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+**First Attempts:**
 ![screenshot_2023-08-25_at_6 40 11_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9175cebd-09e3-457b-9c2c-87301f24a95a)
 ![screenshot_2023-08-25_at_6 40 00_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/e2a43cf9-1d60-4fa8-be27-07477127e575)
 
 
-
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
-\*\***Show the follow-up work here.**\*\*
+**Follow Up Work**
 
 - Red means not done
 - Yellow means halfway done
@@ -134,7 +88,7 @@ Only now should you start worrying about what the device should look like. Devel
 
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
-\*\***Include sketches of what your devices might look like here.**\*\*
+**Device Sketches**
 ![img_1238_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/063f71c5-f714-4ff4-a09c-bba595721b65)
 ![img_1240_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/22125b6f-4ddb-4daa-8c1e-6f0d857c0e11)
 ![img_1239_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9bbb3b13-9d70-4e3a-ad96-9fc6dd134761)
