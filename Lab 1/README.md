@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATORS HERE**\*\*
+**Collaborators:** Rachel Minkowitz, Shai Aarons, Jon Caceres, Ariana Bhigroog, Amando Xu
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -59,23 +59,20 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage an interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+Setting: The kitchen and bedroom. This device is used when things are cooking or baking in a oven.
+
+Players: The user, the oven, the food, potentially other people in the room
+
+Activity: Rachel puts her cake in the oven, she starts a timer for 30 minutes and then walks away into another room to do homework. She can monitor the progress of the baking cake by just looking at the display on her mini desktop oven sitting next to her in her room. When the cake is officially ready, the display turns green and Rachel knows to head back to the kitchen. The cake is cooked perfectly!
+
+Goals: The goal of the mini oven is to know when food is finished cooking/baking in the oven without having to physically move their ass to the oven
 
 \*\***Include pictures of your storyboards here**\*\*
+
+![image](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/12e5455a-239b-451b-b5ae-965e0775fea7)
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -88,7 +85,14 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+- No one really has a wallclock and since we're using our phones for tinkerbell, watching the time interferes with the color
+- Some of us don't set timers on our ovens and rather rely on external timers like a phone timer, aka Siri.
+- Since the colors only represent an approximation, there is no precise indication of how much time is remaining.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+- Instead of using different colors for different amounts of time remaining, what about using a gradient which can change from a completely solid red window to a completely solid green window where the colors are transitioning from red to green in between - acting more like an ombre progress bar.
+- Possibly creating a wearable device that can be worn around the house rather than sitting on a desk.
 
 
 ## Part C. Prototype the device
@@ -103,15 +107,25 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+- Overall using Tinkerbelle was pretty smooth. When setting up on the Mac device, some of us needed to include --user in order for the requirements.txt to properly install with Python3. Also, we opted to use local machines rather than virtual ones.
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+![screenshot_2023-08-25_at_6 40 11_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9175cebd-09e3-457b-9c2c-87301f24a95a)
+![screenshot_2023-08-25_at_6 40 00_pm_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/e2a43cf9-1d60-4fa8-be27-07477127e575)
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+
+- Red means not done
+- Yellow means halfway done
+- Green means ready to be eaten
 
 
 ## Part E. Costume the device
@@ -121,8 +135,13 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![img_1238_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/063f71c5-f714-4ff4-a09c-bba595721b65)
+![img_1240_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/22125b6f-4ddb-4daa-8c1e-6f0d857c0e11)
+![img_1239_720](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/9bbb3b13-9d70-4e3a-ad96-9fc6dd134761)
 
-\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
+
+\*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
 
 
 ## Part F. Record
@@ -132,6 +151,7 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+- We use Dall-E plus Jon Caceres's immense Photoshop skills to create the storyboard
 
 
 # Staging Interaction, Part 2 
