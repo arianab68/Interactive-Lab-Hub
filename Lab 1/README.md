@@ -35,7 +35,7 @@ Activity: Rachel puts her cake in the oven, she starts a timer for 30 minutes an
 
 Goals: The goal of the mini oven is to know when food is finished cooking/baking in the oven without having to physically move their ass to the oven
 
-**Storyboard**
+***Storyboard***
 
 ![image](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/12e5455a-239b-451b-b5ae-965e0775fea7)
 
