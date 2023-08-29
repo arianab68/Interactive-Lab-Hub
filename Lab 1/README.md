@@ -65,9 +65,7 @@ Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not ov
 
 **Device Sketches**
 
-![devices1 2-1](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/c8e48d6e-aca1-4054-b483-39e411335845) <br>
-![device3-1](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/543eed27-8421-43b1-9ae7-d3ca9a21ec87)
-
+<img width="1233" alt="Screenshot 2023-08-28 at 10 44 09 PM" src="https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/677daa0d-0aa8-4e6d-b300-702810cf20b0">
 
 
 
@@ -93,7 +91,7 @@ Device 3: https://drive.google.com/file/d/17V8TnNVHrqO6JiQrg880nWhypTot08kd/view
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-The group as a whole did a great job collaborating on work and providing feedback in order to iterate through the design process smoothly. Thank you to our great film creators - Jon, Adriana, and Shai! Thank you Rachel for drawing the prototypes and Amando for making sure everything is in place.
+The group as a whole did a great job collaborating on work and providing feedback in order to iterate through the design process smoothly. Thank you to our great film creators - Jon, Ariana, and Shai! Thank you Rachel for drawing the prototypes and Amando for making sure everything is in place.
 
 Thank you OpenAI for creating Dall-E which we used to create the storyboard (+Jon's Photoshop skills)
 
