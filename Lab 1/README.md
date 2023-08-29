@@ -66,6 +66,7 @@ Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not ov
 **Device Sketches**
 
 ![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/c546c552-2d06-44f4-a2dc-91bda5bc721d)
+
 ![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/ee0cb0d2-f5a6-4007-9afa-f37d6695c52d)
 
 
@@ -83,7 +84,9 @@ The third design we went with is by far the most inconspicuous. We were thinking
 \*\***Take a video of your prototyped interaction.**\*\*
 
 Device 1: https://drive.google.com/file/d/1W88U_tuE_rPT6T9hHkpZ3OsQbwEibb6V/view?usp=sharing
+
 Device 2: https://drive.google.com/file/d/1017qzEFg30s_2wL0-tQM1hHyCxsl8W4d/view?usp=sharing
+
 Device 3: https://drive.google.com/file/d/17V8TnNVHrqO6JiQrg880nWhypTot08kd/view?usp=sharing
 
 
