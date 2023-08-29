@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-**Collaborators:** Rachel Minkowitz, Shai Aarons, Jon Caceres, Ariana Bhigroog, Amando Xu
+**Collaborators:** Rachel Minkowitz (rhm256), Shai Aarons (sla88), Jon Caceres (jc3569), Ariana Bhigroog (ab2959), Amando Xu (ax45)
 
 ## Part A. Plan 
 
@@ -65,10 +65,9 @@ Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not ov
 
 **Device Sketches**
 
-![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/c546c552-2d06-44f4-a2dc-91bda5bc721d)
+![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/0f9fdcdd-37a9-4d57-a65b-7edf9d084288)
 
-![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/ee0cb0d2-f5a6-4007-9afa-f37d6695c52d)
-
+![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/47438d97-ce6f-4f92-acf0-75a55fc02369)
 
 
 \*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
