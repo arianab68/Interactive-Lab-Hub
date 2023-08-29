@@ -6,19 +6,23 @@
 
 ## Part A. Plan 
 
-Setting: The kitchen and bedroom. This device is used when things are cooking or baking in an oven.
+Setting: The kitchen and any other room a person decides to go into from the kitchen - possibly a bedroom or home office. This device is used while things are cooking or baking in an oven.
 
 Players: The user, the oven, the food, potentially other people in the room
 
-Activity: Rachel puts her cake in the oven, she starts a timer for 30 minutes, and then walks away into another room to do homework. She can monitor the progress of the baking cake by just looking at the display on her mini desktop oven sitting next to her in her room. When the cake is officially ready, the display turns green and Rachel knows to head back to the kitchen. The cake is cooked perfectly!
+Activity: Rachel puts her cake in the oven, she starts a timer for 30 minutes and then walks away into another room to do homework. She can monitor the progress of the baking cake by just looking at the display on her mini desktop oven sitting next to her in her room. When the oven timer starts the display is red, when the timer is halfway through the display is yellow and when the cake is officially ready, the display turns green and Rachel knows to head back to the kitchen. The cake is cooked perfectly!
 
-Goals: The goal of the mini oven is to know when food is finished cooking/baking in the oven without having to physically move their ass to the oven
+Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not overdone, the goal of the mini oven is to keep track of timing to know when to food is finished cooking/baking without Rachel having to physically move to the oven.
 
 ****Storyboard****
 
 ![image](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/12e5455a-239b-451b-b5ae-965e0775fea7)
 
 **Feedback**
+
+- What about making some sort of reminder to go back to the oven if the food needs basting or rotation?
+- What happens if you're not paying attention to the screen??
+- This would be good for people who are hard of hearing - in case they dont hear timers, it requires very little attention to remember to go back to the oven
 
 
 ## Part B. Act out the Interaction
@@ -61,28 +65,34 @@ Goals: The goal of the mini oven is to know when food is finished cooking/baking
 
 **Device Sketches**
 
+![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/c546c552-2d06-44f4-a2dc-91bda5bc721d)
+![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/ee0cb0d2-f5a6-4007-9afa-f37d6695c52d)
 
-![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/edd91b50-4905-462d-bc2c-4701a86b23d1)
-
-![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/43baec19-1d78-4d1f-bf9f-3b4ec1417b18)
 
 
 \*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
 
-- 
+In our first rendition of the device we thought to create a 'mini desktop oven' that people can look at if they're waiting on something in the oven while working at their desk. This device would be about the size of a tissue box (easily left on a desk) and it's 'window' would be the changing light display. This device is optimal for those that spend lots of time at their desks and want a trendy, functional addition to their desktop setting. Since the setting of a desktop could be both a light and dim setting (when the room light is shut off) the display would react to the external lightsource and brighten/dim accordingly.
+
+While we were sketching out the mini desktop oven the idea that someone might not be tied to their desks came up. So we decided to go with a wearable device as well. Creating a wearable mini oven would allow the user to walk around and travel while they wait on their food. We opted for an inconspicuous looking wristwatch which has oven components and who's face changes colors according to food readiness. This item would allow for a certain amount of flexibility when using and can prove functional to active people who often multitask.
+
+The third design we went with is by far the most inconspicuous. We were thinking about people who live in small spaces, don't have a desk, or don't have room on their desk for a mini desktop oven. Our third design is a colored light that is integrated into a lamp. As with the other designs - the color of the light changes according to how ready the food is but this time the lamp is not a standalone device and turns into a lamp as long as their is nothing in the oven. This device lends to a clean asthetic, does not create clutter and looks like a regualar lamp when not in use.
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-
-
+Device 1: https://drive.google.com/file/d/1W88U_tuE_rPT6T9hHkpZ3OsQbwEibb6V/view?usp=sharing
+Device 2: https://drive.google.com/file/d/1017qzEFg30s_2wL0-tQM1hHyCxsl8W4d/view?usp=sharing
+Device 3: https://drive.google.com/file/d/17V8TnNVHrqO6JiQrg880nWhypTot08kd/view?usp=sharing
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-- We used Dall-E plus Jon Caceres's immense Photoshop skills to create the storyboard.
+The group as a whole did a great job collaborating on work and providing feedback in order to iterate through the design process smoothly. Thank you to our great film creators - Jon, Adriana, and Shai! Thank you Rachel for drawing the prototypes and Amando for making sure everything is in place.
+
+Thank you OpenAI for creating Dall-E which we used to create the storyboard (+Jon's Photoshop skills)
 
 
 # Staging Interaction, Part 2 
