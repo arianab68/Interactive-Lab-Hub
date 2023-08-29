@@ -65,9 +65,8 @@ Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not ov
 
 **Device Sketches**
 
-![IMG_6171](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/4a8da801-8c59-46bb-9ad3-c113515e3d8a)
-
-![IMG_6170](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/dce4372d-2b97-4605-8982-5b0ef0a4bb79)
+![devices1 2-1](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/c8e48d6e-aca1-4054-b483-39e411335845) <br>
+![device3-1](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/543eed27-8421-43b1-9ae7-d3ca9a21ec87)
 
 
 
