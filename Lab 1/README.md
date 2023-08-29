@@ -65,12 +65,11 @@ Goals: Rachel's goal is to make a perfectly cooked cake - not too raw but not ov
 
 **Device Sketches**
 
-![IMG_6171](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/eec95649-6281-44ef-a5fa-e1a098c6d5f7)
+![IMG_6171](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/4a8da801-8c59-46bb-9ad3-c113515e3d8a)
+
+![IMG_6170](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/dce4372d-2b97-4605-8982-5b0ef0a4bb79)
 
 
-![Face minics](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/0f9fdcdd-37a9-4d57-a65b-7edf9d084288)
-
-![IMG_1282](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/47438d97-ce6f-4f92-acf0-75a55fc02369)
 
 
 \*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
