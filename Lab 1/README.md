@@ -114,7 +114,6 @@ The TeeTurtle Reversible Octopus Plush Toy (TROPT) is a simple, yet genius innov
 <img width="165" alt="image" src="https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/9caa82f5-d172-4d2b-858d-ba7c7b61a010">
 <img width="170" alt="image" src="https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/73a4ded9-26eb-4a6b-b78e-70c67b9ef36a">
 
-\*\***Describe your setting, players, activity and goals here.**\*\*
 
 _Setting:_ Residential households where more than one person (or a person and a pet) are living. The interaction will typically occur between separate rooms or separate parts of the same room. The device can be placed on any counter-top, but is most helpful on bedside tables, desks or living room coffee tables. The interaction occurs when the mood/emotions of one of the players shifts.
 
@@ -178,6 +177,7 @@ Storyboard #8:<br>
 ## Part E. Costume the device
 <br>
 **Sketches**
+
 ![16150535-F32A-4BCB-A13E-67457C5387BF](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/1acbf55e-006c-40c6-802e-a250b162e9c6)
 
 ![792B4D23-BDE0-45B4-BD9B-F87F6BD87BF8](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/3ee6f533-da9b-44c0-a5c0-e4c77d6d05a1)
@@ -191,7 +191,7 @@ The output device would generally be stationary in order for the tracker to be a
 
 The other rendition of this device is a more inclusive design. This design is about the size and feel of a tissue-box and includes generic eyes and mouth window. This device also has a speaker embedded in it. It's purpose would be for someone who wants a more impersonal experience when tracking their loved ones, or wants a more versatile asthethic for a cleaner look. This design allows someone to leave their mood output device in their kitchen as it's easily cleanable and can even blend in with other appliances. 
 
-## Part F. Sketches
+## Part F. Record
 <br>
 Case #1: https://drive.google.com/file/d/1N9OvEkTKgxR-1jIIMBJAYO4s8KuRIZj5/view?usp=share_link <br>
 Case #2: https://drive.google.com/file/d/1YFfZgtwLKSR9MhbXnl2K2U_RPDxEmmC8/view?usp=share_link<br>
