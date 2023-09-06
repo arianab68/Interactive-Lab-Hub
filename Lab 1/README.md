@@ -174,6 +174,7 @@ Storyboard #8:<br>
 
 ## Part D. Wizarding
 Link to wizarding video: https://drive.google.com/file/d/1bWOX8KXgtKtjn_A96WFcQdO8k17_xp1A/view?usp=share_link
+
 Disclaimer: this video does not include the sound effects included in our device
 
 ## Part E. Costume the device
