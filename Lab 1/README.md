@@ -100,6 +100,10 @@ Thank you OpenAI for creating Dall-E which we used to create the storyboard (+Jo
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+It would be cool if the color on the phone would reflect the color of the bread instead, since bread goes from white to brown to dark brown.
+
+Very useful idea. Whenever I make frozen pizza, I forget about it and it always burns - having this not only improves the aesthetics of the desk, but it reduces the possibility of screwing up simple baking tasks. The cinematography was very creative as well. I liked the take of the POV of the oven. Shoutout to Shai for acting skills.
+
 **COLLABORATORS: Rachel Minkowitz(rhm256), Shai Aarons(sla88), Jon Caceres(jc3569), Ariana Bhigroog(ab2959), Amando Xu(ax45)**
 
 **Part A:**
