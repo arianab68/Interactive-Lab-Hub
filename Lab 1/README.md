@@ -108,11 +108,12 @@ Very useful idea. Whenever I make frozen pizza, I forget about it and it always 
 
 ## Part A. Plan 
 
-Background: 
+_Background_: 
 The TeeTurtle Reversible Octopus Plush Toy (TROPT) is a simple, yet genius innovation in the realm of emotional communication amongst Gen-Z and other TikTok-identifying generations. The basic premise of the TROPT is to display your emotions to your partner, roommate or parents without actually talking about your emotions. If you are feeling happy, simply have the TROPT display its smiley face, otherwise display its sad face (https://www.youtube.com/watch?v=xxC9SVnBvKU). While it may seem completely unhealthy to converse emotions through a plush toy, we believe that this serves humans who struggle communicating emotions in the modern digital age. Hence, we base the inspiration of our design on the TROPT.
 
 <img width="165" alt="image" src="https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/9caa82f5-d172-4d2b-858d-ba7c7b61a010">
 <img width="170" alt="image" src="https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/73a4ded9-26eb-4a6b-b78e-70c67b9ef36a">
+
 
 
 _Setting:_ Residential households where more than one person (or a person and a pet) are living. The interaction will typically occur between separate rooms or separate parts of the same room. The device can be placed on any counter-top, but is most helpful on bedside tables, desks or living room coffee tables. The interaction occurs when the mood/emotions of one of the players shifts.
@@ -175,7 +176,7 @@ Storyboard #8:<br>
 //todo
 
 ## Part E. Costume the device
-<br>
+
 **Sketches**
 
 ![16150535-F32A-4BCB-A13E-67457C5387BF](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/1acbf55e-006c-40c6-802e-a250b162e9c6)
