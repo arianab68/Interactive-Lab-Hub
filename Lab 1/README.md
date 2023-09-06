@@ -106,7 +106,7 @@ Very useful idea. Whenever I make frozen pizza, I forget about it and it always 
 
 **COLLABORATORS: Rachel Minkowitz(rhm256), Shai Aarons(sla88), Jon Caceres(jc3569), Ariana Bhigroog(ab2959), Amando Xu(ax45)**
 
-**Part A:**
+## Part A. Plan 
 
 Background: 
 The TeeTurtle Reversible Octopus Plush Toy (TROPT) is a simple, yet genius innovation in the realm of emotional communication amongst Gen-Z and other TikTok-identifying generations. The basic premise of the TROPT is to display your emotions to your partner, roommate or parents without actually talking about your emotions. If you are feeling happy, simply have the TROPT display its smiley face, otherwise display its sad face (https://www.youtube.com/watch?v=xxC9SVnBvKU). While it may seem completely unhealthy to converse emotions through a plush toy, we believe that this serves humans who struggle communicating emotions in the modern digital age. Hence, we base the inspiration of our design on the TROPT.
@@ -160,7 +160,7 @@ Storyboard #8:<br>
 - "The dog communication idea is really cool for me to know if my dog is hungry etc. but how would your device understand emotion?" - indeed we do not know
 - "I dont love to unload my entire day to my S.O. when I get home - it would be cool to have a device that I can keep track of her emotions throughout the whole day instead of only in one sitting after the fact" 
 
-**Part B:**
+## Part B. Act out the Interaction
 
 **Are there things that seemed better on paper than acted out?**
 
@@ -172,10 +172,10 @@ Storyboard #8:<br>
 - Perhaps implementing a more sophisticated digitalization of alerts would be helpful for some of our ideas. Instead of receiving alerts on a device, maybe a notification via a custom app would be more helpful for some of our ideas.
 - Instead of a sudden change of color for our couple mood prototype, maybe a slow ombre transition into a different color for a different mood, can help couples understand when their partner is about to feel or experience a specific mood and perhaps attend to their partner needs before they fully experience it. Kind of like knowing what your partner is feeling before they fully experience it. I imagine this can help mitigate a lot of situations in  a relationship.
 
-**Part D: Wizarding**
+## Part D. Wizarding
 //todo
 
-**Part E:**
+## Part E. Costume the device
 <br>
 **Sketches**
 ![16150535-F32A-4BCB-A13E-67457C5387BF](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/1acbf55e-006c-40c6-802e-a250b162e9c6)
@@ -191,7 +191,7 @@ The output device would generally be stationary in order for the tracker to be a
 
 The other rendition of this device is a more inclusive design. This design is about the size and feel of a tissue-box and includes generic eyes and mouth window. This device also has a speaker embedded in it. It's purpose would be for someone who wants a more impersonal experience when tracking their loved ones, or wants a more versatile asthethic for a cleaner look. This design allows someone to leave their mood output device in their kitchen as it's easily cleanable and can even blend in with other appliances. 
 
-**Part F:**
+## Part F. Sketches
 <br>
 Case #1: https://drive.google.com/file/d/1N9OvEkTKgxR-1jIIMBJAYO4s8KuRIZj5/view?usp=share_link <br>
 Case #2: https://drive.google.com/file/d/1YFfZgtwLKSR9MhbXnl2K2U_RPDxEmmC8/view?usp=share_link<br>
