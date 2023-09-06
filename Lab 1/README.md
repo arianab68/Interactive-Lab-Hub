@@ -98,23 +98,7 @@ Thank you OpenAI for creating Dall-E which we used to create the storyboard (+Jo
 
 # Staging Interaction, Part 2 
 
-This describes the second week's work for this lab activity.
-
-
-## Prep (to be done before Lab on Wednesday)
-
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
-
 \*\***Summarize feedback from your partners here.**\*\*
-
-## Make it your own
-
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
-3) We will be grading with an emphasis on creativity. 
-
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 **COLLABORATORS: Rachel Minkowitz(rhm256), Shai Aarons(sla88), Jon Caceres(jc3569), Ariana Bhigroog(ab2959), Amando Xu(ax45)**
 
@@ -137,7 +121,7 @@ _Activity:_ The major activity here is when the mood/emotion of one of the playe
 _Goals:_ The goal of the first user is to display emotions to the other player. The goal of the second user is to understand how the emotion-displaying user is feeling, and take action depending on the mood displayed. An example of this is when a person in a couple is feeling sad, the second person in the couple can hug the sad person. 
 
 
-\*\***Include pictures of your storyboards here**\*\*
+**Storyboards**
 
 Storyboard #1:
 ![7E0764E1-6EA0-44CA-A3F4-99DE68569C16](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/21eb7c4e-1901-47e6-b9ae-6376ea963b76)
@@ -164,9 +148,9 @@ Storyboard #8:<br>
 ![EBC1BDE7-C01A-4C6A-A347-BA26EAC39C6A](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/237b804f-0eb1-4ba5-879a-e0eb11b8af89)
 
 
-*some storyboards were made using Dall-E
+- Some storyboards were made using Dall-E.
 
-\*\***Summarize feedback you got here.**\*\*
+**Feedback**
 
 - "It would be cool if the Apple watch could check Blood Alchohol Levels" - it would be indeed 
 - "The dog communication idea is really cool for me to know if my dog is hungry etc. but how would your device understand emotion?" - indeed we do not know
@@ -189,7 +173,7 @@ Storyboard #8:<br>
 
 **Part E:**
 <br>
-\*\***Include sketches of what your devices might look like here.**\*\*
+**Sketches**
 ![16150535-F32A-4BCB-A13E-67457C5387BF](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/1acbf55e-006c-40c6-802e-a250b162e9c6)
 
 ![792B4D23-BDE0-45B4-BD9B-F87F6BD87BF8](https://github.com/RachMink/Interactive-Lab-Hub/assets/82296790/3ee6f533-da9b-44c0-a5c0-e4c77d6d05a1)
