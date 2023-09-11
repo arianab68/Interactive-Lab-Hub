@@ -207,7 +207,8 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 ![IMG_1590](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/f9f07ed7-9515-476f-ba09-c70f9e8d813e)
 
-![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/3aa493bf-71a0-4ad9-a767-db36b8e5e6bf)
+![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/3b916b3a-2a44-4ae1-bd87-48da77618bba)
+
 
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
@@ -234,7 +235,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-![IMG_6259](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/e6f3e3d4-1c19-47e3-8dd8-cc4696396a99)
+![IMG_6259](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/065f6cb1-111c-4e7a-89eb-0f1ed8f7f4d7)
+
 
 # Prep for Part 2
 
