@@ -1,5 +1,16 @@
 # Interactive Prototyping: The Clock of Pi
-**NAMES OF COLLABORATORS HERE**
+
+**COLLABORATORS:**
+
+**Shai Aarons (sla88)**
+
+**Ariana Bhigroog (ab2959)**
+
+**Jon Caceres (jc3569)**
+
+**Rachel Minkowitz (rhm256)**
+
+**Amando Xu (ax45)**
 
 Does it feel like time is moving strangely during this semester?
 
@@ -194,7 +205,9 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
-**We strongly discourage and will reject the results of literal digital or analog clock display.**
+![IMG_1590](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/f9f07ed7-9515-476f-ba09-c70f9e8d813e)
+
+![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/3aa493bf-71a0-4ad9-a767-db36b8e5e6bf)
 
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
@@ -211,13 +224,17 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 
 ## Part F. 
-## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+[![Video](https://img.youtube.com/vi/stTStYaP5z0/0.jpg)](https://www.youtube.com/watch?v=stTStYaP5z0)
+
+**Please click to play @ Youtube**
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+![IMG_6259](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/e6f3e3d4-1c19-47e3-8dd8-cc4696396a99)
 
 # Prep for Part 2
 
