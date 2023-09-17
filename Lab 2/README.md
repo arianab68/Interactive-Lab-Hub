@@ -215,7 +215,8 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 
 ![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/3b916b3a-2a44-4ae1-bd87-48da77618bba)
 
-
+<img src="media/sketch1.jpg">
+<img src="media/sketch2.jpeg">
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
 
