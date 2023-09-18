@@ -220,8 +220,6 @@ We designed a 'zodiac clock' which ticks each day and shows the progress through
 ![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/547d9dea-b615-455d-8b8d-bd0ce382dcc9)
 
 
-\*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
-
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
 ```
