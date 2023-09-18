@@ -257,6 +257,11 @@ In a future iteration, we plan to allow the user to interact with the app using 
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
+**Feedback**:
+
+1. The idea is cool and very well executed. You could add tooltips or onboarding screens to guide users on how to use the clock effectively, especially if there are unique or complex features.
+2. This is such a unique idea. I love how the clock rotates as time goes on.
+
 # Lab 2 Part 2
 
 In part 2 of the lab, we extend our device to have a new interface that requires interaction with users. Taking in feedback from peers, we extend the Astrology clock to include features that make the purpose of the clock more clear. We also enable the user to interact with the clock by using the buttons on the device interface. We document all our changes below:
