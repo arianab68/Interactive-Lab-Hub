@@ -266,10 +266,20 @@ In a future iteration, we plan to allow the user to interact with the app using 
 
 In part 2 of the lab, we extend our device to have a new interface that requires interaction with users. Taking in feedback from peers, we extend the Astrology clock to include features that make the purpose of the clock more clear. We also enable the user to interact with the clock by using the buttons on the device interface. We document all our changes below:
 
-1) We added a text interface on top of the clock display to demonstrate to users the progress through an astrological period. We show the progress through the astrological period via a percentage point. Based on feedback from peers, we also have included instructive information about how to use the device with the comment: "Press any button to continue." This is shown below:
+tl;dr: steps to work the clock:
+
+1. with this repo on your local pi machine run screen_clock.py -> you should see the horoscope clock
+2. click either button to interact with the clock
+3. scroll up or down using either button to reach your birth sign
+4. select the sign by pressing both buttons at the same time while the arrow is set on your choice of sign
+5. see your daily horoscope!
+6. to go back to the sign menu - press both button at the same time
+7. to go back to the horoscope clock - place the pointer on "go back to clock" on the menu and press both buttons at the same time
+
+A) We added a text interface on top of the clock display to demonstrate to users the progress through an astrological period. We show the progress through the astrological period via a percentage point. Based on feedback from peers, we also have included instructive information about how to use the device with the comment: "Press any button to continue." This is shown below:
    <img width="483" alt="Screen Shot 2023-09-17 at 17 28 16" src="https://github.com/shaiman12/Interactive-Lab-Hub/assets/48441513/121c11f0-38e1-45f8-9162-23f09a794705">
 
-2) Horoscope functionality was added to the device. A horoscope is defined as "a forecast of a person's future, typically including a delineation of character and circumstances, based on the relative positions of the stars and planets at the time of that person's birth." Our device can now fetch a user's daily horoscope based on the position on the astrology clock. We added a second interface for the user to interact with after they press a button. This new interface allows users to scroll through the available star signs (according to their birth date) and select their matching sign. The user selects their sign by pressing both of the available buttons at the same time while the pointer is on their selected sign. Once the user selects their sign, they are shown their horoscope on a new screen. We fetch horoscopes for users via API calls and web scraping using the Python library Beautiful Soup. The user has the functionality to go back to the available star signs by pressing both buttons at the same time again, as well as return to the clock by selecting to exit the horoscope menu. Some of these interfaces are shown below:
+B) Horoscope functionality was added to the device. A horoscope is defined as "a forecast of a person's future, typically including a delineation of character and circumstances, based on the relative positions of the stars and planets at the time of that person's birth." Our device can now fetch a user's daily horoscope based on the position on the astrology clock. We added a second interface for the user to interact with after they press a button. This new interface allows users to scroll through the available star signs (according to their birth date) and select their matching sign. The user selects their sign by pressing both of the available buttons at the same time while the pointer is on their selected sign. Once the user selects their sign, they are shown their horoscope on a new screen. We fetch horoscopes for users via API calls and web scraping using the Python library Beautiful Soup. The user has the functionality to go back to the available star signs by pressing both buttons at the same time again, as well as return to the clock by selecting to exit the horoscope menu. Some of these interfaces are shown below:
 <p float="left">
 <img width="852" alt="Screen Shot 2023-09-17 at 17 39 40" src="https://github.com/shaiman12/Interactive-Lab-Hub/assets/48441513/a2681741-5a59-49a4-9bff-5b7ca71ad8cd">
  </p>
