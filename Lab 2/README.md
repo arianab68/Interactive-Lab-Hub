@@ -211,9 +211,9 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
-![IMG_1590](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/f9f07ed7-9515-476f-ba09-c70f9e8d813e)
+![IMG_1590](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/7ec01002-4d44-4eb5-8d44-71ef7e3c3c9f)
 
-![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/3b916b3a-2a44-4ae1-bd87-48da77618bba)
+![Screenshot 2023-09-08 at 6 06 58 PM](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/547d9dea-b615-455d-8b8d-bd0ce382dcc9)
 
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
@@ -242,7 +242,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-![IMG_6259](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/065f6cb1-111c-4e7a-89eb-0f1ed8f7f4d7)
+![IMG_6259](https://github.com/arianab68/Interactive-Lab-Hub/assets/70418227/76a649f0-e7e2-4b4f-85e7-e85e83c80a16)
+
 
 
 # Prep for Part 2
