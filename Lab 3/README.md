@@ -103,7 +103,7 @@ python test_microphone.py -m en
 
 The file for this is located in `speech-scripts\ask_user.sh` -- it uses a modified version of `test_microphone.py`
 
-```
+
 ### Serving Pages
 
 In Lab 1, we served a webpage with flask. In this lab, you may find it useful to serve a webpage for the controller on a remote device. Here is a simple example of a webserver.
