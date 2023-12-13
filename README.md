@@ -9,7 +9,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 3. Chatterboxes](Lab%203/)
 
-[Lab 4. Ph-UI!!!](Lab%204/)
+[Lab 4. Ph-UI!!!]([Lab%204/](https://github.com/arianab68/Interactive-Lab-Hub/blob/Fall2023/Lab%204/README.md))
 
 [Lab 5. Observant Systems](https://github.com/arianab68/Interactive-Lab-Hub/blob/Fall2023/Lab%205/README.md)
 
